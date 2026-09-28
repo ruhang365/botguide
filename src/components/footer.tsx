@@ -5,7 +5,7 @@ const ecosystem = [
   { label: "入行日报", href: "https://daily.ruhang365.cn" },
   { label: "入行之路", href: "https://rhzl.ruhang365.cn" },
   { label: "什么值得用", href: "https://smzdy.ruhang365.cn" },
-  { label: "个人中心", href: "https://ruhangcenter.ruhang365.cn" },
+  { label: "我的工作台", href: "https://rhzl.ruhang365.cn/center" },
 ];
 
 const tools = [
